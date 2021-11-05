@@ -1,3 +1,3 @@
 # backroad
-a simple landing page made with html and css for a non-existent company
+a simple landing page made to practise my html and css skills.
 </br>https://backroadsameple.netlify.app/
